@@ -253,6 +253,8 @@ The desktop app also offers a loopback-only control channel (`figcraft --control
 
 ## Get started
 
+This fork is used to develop FigCraft features. See [upstream FigCraft](https://github.com/storytold/figcraft) for the original project.
+
 ```sh
 git clone https://github.com/storytold/figcraft
 cd figcraft
